@@ -11,6 +11,7 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
   - [No-repeat Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
   - [Longest Substring with Same Letters after Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
   - [Longest Subarray with Ones after Replacement](https://leetcode.com/problems/max-consecutive-ones-iii/)
+  - [Permutation in a String](https://leetcode.com/problems/permutation-in-string/)
 - Two Pointers
 - Fast and Slow Pointers
 - Merge Intervals
