@@ -9,6 +9,7 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
     - [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
   - [Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
   - [No-repeat Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+  - [Longest Substring with Same Letters after Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - Two Pointers
 - Fast and Slow Pointers
 - Merge Intervals
