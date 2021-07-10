@@ -8,6 +8,7 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
   - [Longest Substring with K Distinct Characters](https://sunjetliu.medium.com/longest-substring-with-k-distinct-characters-6689840f8c75)
     - [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
   - [Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
+  - [No-repeat Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - Two Pointers
 - Fast and Slow Pointers
 - Merge Intervals
