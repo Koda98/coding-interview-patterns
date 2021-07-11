@@ -16,6 +16,7 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
   - [Smallest Window containing Substring](https://leetcode.com/problems/minimum-window-substring/submissions/)
   - [Words Concatenation](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 - Two Pointers
+  - [Pair With Target Sum](https://leetcode.com/problems/two-sum/)
 - Fast and Slow Pointers
 - Merge Intervals
 - Cyclic Sort
