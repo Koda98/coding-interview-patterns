@@ -1,6 +1,6 @@
 # coding-interview-patterns
 
-Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) and [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
 
 - Sliding Window
   - [Maximum Sum Subarray of Size K](https://leetcode.com/problems/maximum-subarray/)
