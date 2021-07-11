@@ -12,6 +12,8 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
   - [Longest Substring with Same Letters after Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
   - [Longest Subarray with Ones after Replacement](https://leetcode.com/problems/max-consecutive-ones-iii/)
   - [Permutation in a String](https://leetcode.com/problems/permutation-in-string/)
+  - [String Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+  - [Smallest Window containing Substring](https://leetcode.com/problems/minimum-window-substring/submissions/)
 - Two Pointers
 - Fast and Slow Pointers
 - Merge Intervals
