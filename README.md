@@ -17,6 +17,8 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
   - [Words Concatenation](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 - Two Pointers
   - [Pair With Target Sum](https://leetcode.com/problems/two-sum/)
+  - [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+    - [Remove Element](https://leetcode.com/problems/remove-element/)
 - Fast and Slow Pointers
 - Merge Intervals
 - Cyclic Sort
