@@ -19,6 +19,7 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
   - [Pair With Target Sum](https://leetcode.com/problems/two-sum/)
   - [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
     - [Remove Element](https://leetcode.com/problems/remove-element/)
+  - [Squaring a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - Fast and Slow Pointers
 - Merge Intervals
 - Cyclic Sort
