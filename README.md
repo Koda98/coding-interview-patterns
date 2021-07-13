@@ -5,7 +5,7 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
 - Sliding Window
   - [Maximum Sum Subarray of Size K](https://leetcode.com/problems/maximum-subarray/)
   - [Smallest Subarray with a given sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
-  - [Longest Substring with K Distinct Characters](https://sunjetliu.medium.com/longest-substring-with-k-distinct-characters-6689840f8c75)
+  - [Longest Substring with K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/), [Medium Article](https://sunjetliu.medium.com/longest-substring-with-k-distinct-characters-6689840f8c75)
     - [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
   - [Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
   - [No-repeat Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -20,6 +20,9 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
   - [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
     - [Remove Element](https://leetcode.com/problems/remove-element/)
   - [Squaring a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+  - [Triplet Sum to Zero](https://leetcode.com/problems/3sum/)
+  - [Triplet Sum Close to Target](https://leetcode.com/problems/3sum-closest/)
+  - [Triplet with Smaller Sum](https://leetcode.com/problems/3sum-smaller/), [Geeks For Geeks](https://www.geeksforgeeks.org/count-triplets-with-sum-smaller-that-a-given-value/)
 - Fast and Slow Pointers
 - Merge Intervals
 - Cyclic Sort
