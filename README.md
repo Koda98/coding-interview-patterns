@@ -3,7 +3,7 @@
 Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) and [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
 
 - Sliding Window
-  - [Maximum Sum Subarray of Size K](https://leetcode.com/problems/maximum-subarray/)
+  - [Maximum Sum Subarray of Size K](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/), [Alternate site](https://leetcode.ca/all/325.html)
   - [Smallest Subarray with a given sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
   - [Longest Substring with K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/), [Medium Article](https://sunjetliu.medium.com/longest-substring-with-k-distinct-characters-6689840f8c75)
     - [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
