@@ -13,7 +13,7 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
   - [Longest Subarray with Ones after Replacement](https://leetcode.com/problems/max-consecutive-ones-iii/)
   - [Permutation in a String](https://leetcode.com/problems/permutation-in-string/)
   - [String Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
-  - [Smallest Window containing Substring](https://leetcode.com/problems/minimum-window-substring/submissions/)
+  - [Smallest Window containing Substring](https://leetcode.com/problems/minimum-window-substring/)
   - [Words Concatenation](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 - Two Pointers
   - [Pair With Target Sum](https://leetcode.com/problems/two-sum/)
@@ -26,7 +26,11 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
   - [Subarrays with Product Less than a Target (Educative)](https://www.educative.io/courses/grokking-the-coding-interview/RMV1GV1yPYz)
   - [Dutch National Flag Problem](https://leetcode.com/problems/sort-colors/)
   - [Quadruple Sum to Target](https://leetcode.com/problems/4sum/)
+  - [Comparing Strings containing Backspaces](https://leetcode.com/problems/backspace-string-compare/)
+  - [Minimum Window Sort](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - Fast and Slow Pointers
+  - [LinkedList Cycle](https://leetcode.com/problems/linked-list-cycle/)
+  - [Start of LinkedList Cycle](https://leetcode.com/problems/linked-list-cycle-ii/)
 - Merge Intervals
 - Cyclic Sort
 - In-place Reversal of Linked List
