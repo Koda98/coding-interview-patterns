@@ -25,6 +25,7 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
   - [Triplet with Smaller Sum](https://leetcode.com/problems/3sum-smaller/), [Geeks For Geeks](https://www.geeksforgeeks.org/count-triplets-with-sum-smaller-that-a-given-value/)
   - [Subarrays with Product Less than a Target (Educative)](https://www.educative.io/courses/grokking-the-coding-interview/RMV1GV1yPYz)
   - [Dutch National Flag Problem](https://leetcode.com/problems/sort-colors/)
+  - [Quadruple Sum to Target](https://leetcode.com/problems/4sum/)
 - Fast and Slow Pointers
 - Merge Intervals
 - Cyclic Sort
