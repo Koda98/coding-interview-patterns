@@ -31,6 +31,7 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
 - Fast and Slow Pointers
   - [LinkedList Cycle](https://leetcode.com/problems/linked-list-cycle/)
   - [Start of LinkedList Cycle](https://leetcode.com/problems/linked-list-cycle-ii/)
+  - [Happy Number](https://leetcode.com/problems/happy-number/)
 - Merge Intervals
 - Cyclic Sort
 - In-place Reversal of Linked List
