@@ -35,8 +35,10 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
   - [Middle of the LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/)
   - [Palindrome LinkedList](https://leetcode.com/problems/palindrome-linked-list/)
   - [Rearrange a LinkedList](https://leetcode.com/problems/reorder-list/)
-  - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - Merge Intervals
+  - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+  - [Insert Interval](https://leetcode.com/problems/insert-interval/)
+  - 
 - Cyclic Sort
 - In-place Reversal of Linked List
 - Tree BFS
