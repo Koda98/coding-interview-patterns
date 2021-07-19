@@ -33,6 +33,8 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
   - [Start of LinkedList Cycle](https://leetcode.com/problems/linked-list-cycle-ii/)
   - [Happy Number](https://leetcode.com/problems/happy-number/)
   - [Middle of the LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/)
+  - [Palindrome LinkedList](https://leetcode.com/problems/palindrome-linked-list/)
+  - [Rearrange a LinkedList](https://leetcode.com/problems/reorder-list/)
 - Merge Intervals
 - Cyclic Sort
 - In-place Reversal of Linked List
