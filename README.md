@@ -38,7 +38,7 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
 - Merge Intervals
   - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
   - [Insert Interval](https://leetcode.com/problems/insert-interval/)
-  - 
+  - [Intervals Intersection](https://leetcode.com/problems/interval-list-intersections/)
 - Cyclic Sort
 - In-place Reversal of Linked List
 - Tree BFS
