@@ -16,7 +16,7 @@ Problems that cover [14 Patterns to Ace Any Coding Interview Question](https://h
   - Smallest Window containing Substring: [LeetCode](https://leetcode.com/problems/minimum-window-substring/)
   - Words Concatenation: [LeetCode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 - Two Pointers
-  - Pair With Target Sum: [LeetCode](https://leetcode.com/problems/two-sum/)
+  - Pair With Target Sum: [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
   - Remove Duplicates: [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
   - Remove Element: [LeetCode](https://leetcode.com/problems/remove-element/)
   - Squaring a Sorted Array: [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/)
